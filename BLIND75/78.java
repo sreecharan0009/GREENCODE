@@ -1,3 +1,8 @@
+package BLIND75;
+
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         int n=nums.length;
