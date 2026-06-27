@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -54,5 +55,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
