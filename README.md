@@ -10,6 +10,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2643-row-with-maximum-ones](https://github.com/sreecharan0009/GREENCODE/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
