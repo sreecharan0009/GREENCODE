@@ -50,6 +50,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan0009/GREENCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
@@ -61,11 +62,13 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan0009/GREENCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan0009/GREENCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
