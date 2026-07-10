@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sreecharan0009/GREENCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -99,6 +100,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sreecharan0009/GREENCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -120,6 +122,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sreecharan0009/GREENCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0328-odd-even-linked-list) |
