@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sreecharan0009/GREENCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sreecharan0009/GREENCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreecharan0009/GREENCODE/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
 | ------- |
