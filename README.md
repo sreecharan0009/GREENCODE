@@ -63,6 +63,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sreecharan0009/GREENCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan0009/GREENCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sreecharan0009/GREENCODE/tree/master/0050-powx-n) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sreecharan0009/GREENCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sreecharan0009/GREENCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sreecharan0009/GREENCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
