@@ -16,6 +16,7 @@
 | [0724-find-pivot-index](https://github.com/sreecharan0009/GREENCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/sreecharan0009/GREENCODE/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sreecharan0009/GREENCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan0009/GREENCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/sreecharan0009/GREENCODE/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/sreecharan0009/GREENCODE/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
@@ -174,4 +176,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sreecharan0009/GREENCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sreecharan0009/GREENCODE/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
