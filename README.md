@@ -18,6 +18,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/sreecharan0009/GREENCODE/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sreecharan0009/GREENCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sreecharan0009/GREENCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -36,6 +37,7 @@
 | [0392-is-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sreecharan0009/GREENCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan0009/GREENCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sreecharan0009/GREENCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
