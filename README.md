@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/sreecharan0009/GREENCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan0009/GREENCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sreecharan0009/GREENCODE/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/sreecharan0009/GREENCODE/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sreecharan0009/GREENCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
