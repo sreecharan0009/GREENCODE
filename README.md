@@ -13,6 +13,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/sreecharan0009/GREENCODE/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan0009/GREENCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -153,6 +154,7 @@
 | [0002-add-two-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sreecharan0009/GREENCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sreecharan0009/GREENCODE/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sreecharan0009/GREENCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
