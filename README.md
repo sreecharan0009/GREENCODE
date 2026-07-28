@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sreecharan0009/GREENCODE/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan0009/GREENCODE/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/sreecharan0009/GREENCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
