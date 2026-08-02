@@ -19,6 +19,7 @@
 | [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/sreecharan0009/GREENCODE/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan0009/GREENCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -48,6 +49,7 @@
 | [0392-is-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sreecharan0009/GREENCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -162,6 +164,7 @@
 | [0069-sqrtx](https://github.com/sreecharan0009/GREENCODE/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/sreecharan0009/GREENCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sreecharan0009/GREENCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -228,4 +231,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0090-subsets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
