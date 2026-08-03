@@ -96,11 +96,13 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan0009/GREENCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
