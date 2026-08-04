@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sreecharan0009/GREENCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sreecharan0009/GREENCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sreecharan0009/GREENCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sreecharan0009/GREENCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -247,4 +249,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sreecharan0009/GREENCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sreecharan0009/GREENCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
