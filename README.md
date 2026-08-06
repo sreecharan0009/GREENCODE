@@ -16,6 +16,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/sreecharan0009/GREENCODE/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sreecharan0009/GREENCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreecharan0009/GREENCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
@@ -129,6 +131,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sreecharan0009/GREENCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan0009/GREENCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
