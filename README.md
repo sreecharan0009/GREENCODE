@@ -38,6 +38,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan0009/GREENCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/sreecharan0009/GREENCODE/tree/master/2643-row-with-maximum-ones) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sreecharan0009/GREENCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreecharan0009/GREENCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -131,6 +132,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sreecharan0009/GREENCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sreecharan0009/GREENCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sreecharan0009/GREENCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreecharan0009/GREENCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sreecharan0009/GREENCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreecharan0009/GREENCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/3731-find-missing-elements) |
 ## Counting
