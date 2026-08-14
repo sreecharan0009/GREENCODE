@@ -65,6 +65,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreecharan0009/GREENCODE/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -98,6 +99,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/sreecharan0009/GREENCODE/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
@@ -117,6 +119,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sreecharan0009/GREENCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreecharan0009/GREENCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sreecharan0009/GREENCODE/tree/master/0735-asteroid-collision) |
@@ -286,6 +289,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sreecharan0009/GREENCODE/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan0009/GREENCODE/tree/master/2104-sum-of-subarray-ranges) |
