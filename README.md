@@ -107,6 +107,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan0009/GREENCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreecharan0009/GREENCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sreecharan0009/GREENCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sreecharan0009/GREENCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreecharan0009/GREENCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreecharan0009/GREENCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sreecharan0009/GREENCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreecharan0009/GREENCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreecharan0009/GREENCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
