@@ -41,6 +41,7 @@
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sreecharan0009/GREENCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreecharan0009/GREENCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sreecharan0009/GREENCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0090-subsets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sreecharan0009/GREENCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
 | ------- |
