@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sreecharan0009/GREENCODE/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan0009/GREENCODE/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/0216-combination-sum-iii) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sreecharan0009/GREENCODE/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreecharan0009/GREENCODE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
