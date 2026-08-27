@@ -313,4 +313,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreecharan0009/GREENCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sreecharan0009/GREENCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
