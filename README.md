@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan0009/GREENCODE/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/sreecharan0009/GREENCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -156,6 +157,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sreecharan0009/GREENCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreecharan0009/GREENCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sreecharan0009/GREENCODE/tree/master/0069-sqrtx) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
