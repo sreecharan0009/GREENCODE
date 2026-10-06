@@ -78,6 +78,7 @@
 | [0402-remove-k-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sreecharan0009/GREENCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sreecharan0009/GREENCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sreecharan0009/GREENCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan0009/GREENCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -137,6 +139,7 @@
 | [0735-asteroid-collision](https://github.com/sreecharan0009/GREENCODE/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/sreecharan0009/GREENCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sreecharan0009/GREENCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan0009/GREENCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -307,6 +310,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sreecharan0009/GREENCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sreecharan0009/GREENCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
