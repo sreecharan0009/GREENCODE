@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sreecharan0009/GREENCODE/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/sreecharan0009/GREENCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -218,6 +219,7 @@
 | [0002-add-two-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sreecharan0009/GREENCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sreecharan0009/GREENCODE/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/sreecharan0009/GREENCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0877-stone-game) |
@@ -270,6 +272,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sreecharan0009/GREENCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -323,6 +326,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreecharan0009/GREENCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Newton's Method
 |  |
@@ -332,4 +336,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0128-longest-consecutive-sequence) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
