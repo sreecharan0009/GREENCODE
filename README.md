@@ -43,6 +43,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan0009/GREENCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/sreecharan0009/GREENCODE/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sreecharan0009/GREENCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreecharan0009/GREENCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreecharan0009/GREENCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Newton's Method
 |  |
