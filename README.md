@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/sreecharan0009/GREENCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/sreecharan0009/GREENCODE/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan0009/GREENCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0148-sort-list) |
+| [0414-third-maximum-number](https://github.com/sreecharan0009/GREENCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
