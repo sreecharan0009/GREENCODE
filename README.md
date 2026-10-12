@@ -18,6 +18,7 @@
 | [0216-combination-sum-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/sreecharan0009/GREENCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/sreecharan0009/GREENCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreecharan0009/GREENCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sreecharan0009/GREENCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
