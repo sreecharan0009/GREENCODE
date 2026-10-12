@@ -17,6 +17,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/sreecharan0009/GREENCODE/tree/master/0238-product-of-array-except-self) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -172,6 +174,7 @@
 | [0141-linked-list-cycle](https://github.com/sreecharan0009/GREENCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreecharan0009/GREENCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
@@ -191,6 +194,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan0009/GREENCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan0009/GREENCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -271,6 +275,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/sreecharan0009/GREENCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -362,4 +367,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sreecharan0009/GREENCODE/tree/master/0204-count-primes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
