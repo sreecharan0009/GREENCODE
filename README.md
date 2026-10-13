@@ -57,6 +57,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreecharan0009/GREENCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sreecharan0009/GREENCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreecharan0009/GREENCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sreecharan0009/GREENCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sreecharan0009/GREENCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sreecharan0009/GREENCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/sreecharan0009/GREENCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sreecharan0009/GREENCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sreecharan0009/GREENCODE/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
