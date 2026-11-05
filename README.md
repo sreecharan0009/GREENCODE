@@ -40,6 +40,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/sreecharan0009/GREENCODE/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sreecharan0009/GREENCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sreecharan0009/GREENCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -71,6 +72,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sreecharan0009/GREENCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [0392-is-subsequence](https://github.com/sreecharan0009/GREENCODE/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sreecharan0009/GREENCODE/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan0009/GREENCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreecharan0009/GREENCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -286,6 +289,7 @@
 | [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/sreecharan0009/GREENCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
