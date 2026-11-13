@@ -31,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan0009/GREENCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sreecharan0009/GREENCODE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/sreecharan0009/GREENCODE/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/sreecharan0009/GREENCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sreecharan0009/GREENCODE/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sreecharan0009/GREENCODE/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan0009/GREENCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sreecharan0009/GREENCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan0009/GREENCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/sreecharan0009/GREENCODE/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/sreecharan0009/GREENCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan0009/GREENCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -290,6 +292,7 @@
 | [0169-majority-element](https://github.com/sreecharan0009/GREENCODE/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/sreecharan0009/GREENCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreecharan0009/GREENCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/sreecharan0009/GREENCODE/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sreecharan0009/GREENCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreecharan0009/GREENCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sreecharan0009/GREENCODE/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -330,6 +333,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sreecharan0009/GREENCODE/tree/master/0090-subsets-ii) |
+| [0645-set-mismatch](https://github.com/sreecharan0009/GREENCODE/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sreecharan0009/GREENCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
